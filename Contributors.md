@@ -802,3 +802,4 @@
 - [Tim Guenthner](https://github.com/aerotog)
 - [Jhonatan Casale](https://github.com/jhonatancasale)
 - [Kik Tachanok](https://github.com/tachanokkik)
+- [Merritt Baggett](https://github.com/mertbagt/)
